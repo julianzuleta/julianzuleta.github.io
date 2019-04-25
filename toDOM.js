@@ -1,4 +1,4 @@
-var toDOM = props => {
+const toDOM = props => {
 	let { parent, child } = props
 	let dataAttr = 'data-current-elem'
 	let parentElems = document.querySelectorAll(parent)

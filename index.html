@@ -17,9 +17,10 @@
                 --ratio-offset: (16 / 9) + 200px;
                 --h-ratio: 100vh * var(--ratio-offset);
                 --w-ratio: 100vw * var(--ratio-offset);
+                --dimensions: calc(max(var(--w-ratio), var(--h-ratio)));
 
-                width: calc(max(var(--w-ratio), var(--h-ratio)));
-                height: calc(max(var(--w-ratio), var(--h-ratio)));
+                width: var(--dimensions);
+                height: var(--dimensions);
                 position: absolute;
                 top: 50%;
                 left: 50%;

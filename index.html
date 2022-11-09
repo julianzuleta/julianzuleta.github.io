@@ -2,33 +2,32 @@
 <html>
     <head>
         <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+        <link rel="icon" type="image/x-icon" href="hello-flag.svg">
         <meta charset="UTF-8">
         <title>Julian Zuleta</title>
         <style>
-            body {
-                background-color: #000;
-                overflow: hidden;
-                width: 100vw;
-                height: 100vh;
-                pointer-events: none;
-            }
+			body {
+				margin: 0;
+				box-sizing: border-box;
+				background-color: #111;
+				overflow: hidden;
+				display: flex;
+				justify-content: center;
+				align-items: center;
+				width: 100vw;
+				height: 100vh;
+			}
 
-            iframe {
-                --ratio-offset: (16 / 9) + 150px;
-                --h-ratio: 100vh * var(--ratio-offset);
-                --w-ratio: 100vw * var(--ratio-offset);
-                --dimensions: calc(max(var(--w-ratio), var(--h-ratio)));
-
-                width: var(--dimensions);
-                height: var(--dimensions);
-                position: absolute;
-                top: 50%;
-                left: 50%;
-                transform: translate(-50%, -50%);
-            }
+			body:after {
+				content: '';
+				width: 150px;
+				height: 150px;
+				background: url('hello-flag.svg') center center no-repeat;
+				background-size: cover;
+				border-radius: 10px;
+			}
         </style>
     </head>
     <body>
-        <iframe src="https://www.youtube.com/embed/CoiLZu94HyU?start=1274&autoplay=1&controls=0&mute=1" frameborder="0" allow="autoplay" allowfullscreen></iframe>
     </body>
 </html>

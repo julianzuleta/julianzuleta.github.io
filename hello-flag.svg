@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <!-- Generator: Adobe Illustrator 26.2.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
 	 viewBox="0 0 400 400" style="enable-background:new 0 0 400 400;" xml:space="preserve">
 <style type="text/css">
 	.st0{display:none;}
@@ -13,8 +13,8 @@
 	.st7{fill:#BF2334;}
 	.st8{fill:#223064;}
 </style>
-<g id="Layer_2" class="st0">
-	<rect y="0" class="st1" width="400" height="400"/>
+<g id="Layer_2_00000008130036638415825560000000875852173267318429_" class="st0">
+	<rect class="st1" width="400" height="400"/>
 </g>
 <g id="Layer_3" class="st0">
 	<rect x="25" y="25" class="st2" width="350" height="350"/>
@@ -22,12 +22,12 @@
 <g id="Layer_4" class="st0">
 	<rect x="32.5" y="32.5" class="st3" width="335" height="335"/>
 </g>
-<g id="Layer_1" class="st0">
+<g id="Layer_1_00000063624338553215875900000014721486193395374253_" class="st0">
 	<g class="st4">
 		<path class="st5" d="M127.5,93.3c2.5,0,4.9,0.3,7.2,0.8l-7.2-26.8l-7.2,26.8C122.6,93.6,125,93.3,127.5,93.3z"/>
 		<path class="st5" d="M117.1,94.9L97.5,75.3l7.2,26.8C108.2,98.9,112.4,96.4,117.1,94.9z"/>
 		<path class="st5" d="M150.3,102.1l7.2-26.8l-19.6,19.6C142.6,96.4,146.8,98.9,150.3,102.1z"/>
-		<path class="st5" d="M187.5,127.3l-26.8-7.2c0.5,2.3,0.8,4.7,0.8,7.2c0,2.5-0.3,4.9-0.8,7.2L187.5,127.3z"/>
+		<path class="st5" d="M187.5,127.3l-26.8-7.2c0.5,2.3,0.8,4.7,0.8,7.2s-0.3,4.9-0.8,7.2L187.5,127.3z"/>
 		<path class="st5" d="M102.3,104.5l-26.8-7.2l19.6,19.6C96.6,112.2,99.1,108,102.3,104.5z"/>
 		<path class="st5" d="M159.9,116.9l19.6-19.6l-26.8,7.2C155.9,108,158.4,112.2,159.9,116.9z"/>
 		<path class="st5" d="M93.5,127.3c0-2.5,0.3-4.9,0.8-7.2l-26.8,7.2l26.8,7.2C93.8,132.2,93.5,129.8,93.5,127.3z"/>
@@ -52,30 +52,22 @@
 	</g>
 	<g>
 		
-			<rect x="144.8" y="-102" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -80.1441 193.4849)" class="st7" width="97.4" height="591"/>
+			<rect x="144.8" y="-102" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -80.1386 193.4981)" class="st7" width="97.4" height="591"/>
 	</g>
 	<g id="Layer_7">
 	</g>
 	<g>
 		
-			<rect x="-91.1" y="153.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -85.1852 199.382)" class="st7" width="578.3" height="97.4"/>
+			<rect x="-91.1" y="153.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -85.2037 199.3573)" class="st7" width="578.3" height="97.4"/>
 	</g>
 	<g>
 		
-			<rect x="-108.3" y="192.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -92.0803 196.1118)" class="st5" width="597.9" height="32.8"/>
-	</g>
-	<g id="Layer_9">
-		<rect class="st5" width="399.5" height="28.5"/>
-		<rect x="0.2" y="371.5" class="st5" width="399.5" height="28.5"/>
-		
-			<rect x="-185.5" y="192.1" transform="matrix(6.123234e-17 -1 1 6.123234e-17 -192.0772 220.563)" class="st5" width="399.5" height="28.5"/>
-		
-			<rect x="186" y="191.9" transform="matrix(6.123234e-17 -1 1 6.123234e-17 179.6639 591.8504)" class="st5" width="399.5" height="28.5"/>
+			<rect x="-108.3" y="192.8" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -92.1057 196.0941)" class="st5" width="597.9" height="32.8"/>
 	</g>
 	<g id="Layer_8">
 		<g>
 			
-				<rect x="171.7" y="-114.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -78.1653 188.1941)" class="st5" width="32.8" height="606.7"/>
+				<rect x="171.7" y="-114.9" transform="matrix(0.7071 -0.7071 0.7071 0.7071 -78.1571 188.1953)" class="st5" width="32.8" height="606.7"/>
 		</g>
 	</g>
 	<circle class="st8" cx="200" cy="193.5" r="109.6"/>
@@ -84,6 +76,14 @@
 			<polygon class="st5" points="154.5,259.2 199.8,225.7 246.4,259.2 229,205.5 274.3,171.4 217.9,171.4 199.8,117.7 182.4,171.4 
 				125.2,171.4 171.2,205.5 			"/>
 		</g>
+	</g>
+</g>
+<g id="Layer_2" class="st0">
+	<g id="Layer_9" class="st4">
+		<rect class="st5" width="399.5" height="28.5"/>
+		<rect x="0.2" y="371.5" class="st5" width="399.5" height="28.5"/>
+		<rect x="0" y="6.6" class="st5" width="28.5" height="399.5"/>
+		<rect x="371.6" y="6.4" class="st5" width="28.5" height="399.5"/>
 	</g>
 </g>
 </svg>
